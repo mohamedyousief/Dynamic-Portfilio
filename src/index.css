@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Badeen+Display&family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&family=Lemonada:wght@300..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: "IBM Plex Sans";
+    scroll-behavior: smooth;
+}
+
+:root{
+    --primary-color:#dbccff;
+}
+
+body{
+    background-image: url(assets/body-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+
